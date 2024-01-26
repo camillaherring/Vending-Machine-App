@@ -1,0 +1,70 @@
+1. [Inventory]
+
+[used int = char error when storing char num to int for index of arr]
+
+[Character.getNumericValue(char)]
+REF:https://www.geeksforgeeks.org/java-program-to-convert-char-to-int/
+---------------------------------------------------
+2. [What Class]
+
+[Description]
+
+[What changed]
+
+---------------------------------------------------
+3. [What Class]
+
+[Description]
+
+[What changed]
+
+---------------------------------------------------
+4. [What Class]
+
+[Description]
+
+[What changed]
+
+---------------------------------------------------
+5. [What Class]
+
+[Description]
+
+[What changed]
+
+---------------------------------------------------
+6. [What Class]
+
+[Description]
+
+[What changed]
+
+---------------------------------------------------
+7. [What Class]
+
+[Description]
+
+[What changed]
+
+---------------------------------------------------
+8. [What Class]
+
+[Description]
+
+[What changed]
+
+---------------------------------------------------
+9. [What Class]
+
+[Description]
+
+[What changed]
+
+---------------------------------------------------
+10. [What Class]
+
+[Description]
+
+[What changed]
+
+---------------------------------------------------
